@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Luisa García",
+    "age": 28,
+    "phones": [
+      {
+        "phone_type": "MÓVIL",
+        "phone_number": "3111111111"
+      },
+      {
+        "phone_type": "Casa",
+        "phone_number": "2222222"
+      }
+    ],
+    "email": "luisagarcia@gmail.com"
+  },
+  {
+    "name": "Carlos Rodríguez",
+    "age": 35,
+    "phones": [
+      {
+        "phone_type": "MÓVIL",
+        "phone_number": "3333333333"
+      }
+    ],
+    "email": "carlosrodriguez@gmail.com"
+  },
+  {
+    "name": "Ana Torres",
+    "age": 42,
+    "phones": [
+      {
+        "phone_type": "MÓVIL",
+        "phone_number": "4444444444"
+      },
+      {
+        "phone_type": "Trabajo",
+        "phone_number": "5555555"
+      }
+    ],
+    "email": "anatorres@gmail.com"
+  },
+  {
+    "name": "Pedro Gómez",
+    "age": 31,
+    "phones": [
+      {
+        "phone_type": "MÓVIL",
+        "phone_number": "6666666666"
+      },
+      {
+        "phone_type": "Casa",
+        "phone_number": "7777777"
+      }
+    ],
+    "email": "pedrogomez@gmail.com"
+  },
+  {
+    "name": "María Fernández",
+    "age": 27,
+    "phones": [
+      {
+        "phone_type": "MÓVIL",
+        "phone_number": "8888888888"
+      }
+    ],
+    "email": "mariafernandez@gmail.com"
+  }
+]
